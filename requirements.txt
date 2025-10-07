@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+requests
+protobuf
+gtfs-realtime-bindings
+folium
+streamlit-folium
+shapely
+pyproj
+streamlit-autorefresh
